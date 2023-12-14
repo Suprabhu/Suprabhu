@@ -1,6 +1,4 @@
  
-
-
 # Hi, I'm Subramanya!
 
 
@@ -33,12 +31,6 @@ suprabhu748@gmail.com
 ![Suprabhu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suprabhu&theme=prussian&hide_border=false)
 ![Suprabhu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprabhu&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
-## How to reach me!
-
-suprabhu748@gmail.com
 
 
-## Stats
-![Suprabhu's Stats](https://github-readme-stats.vercel.app/api?username=Suprabhu&theme=prussian&show_icons=true&hide_border=false&count_private=true)
-![Suprabhu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suprabhu&theme=prussian&hide_border=false)
-![Suprabhu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprabhu&theme=prussian&show_icons=true&hide_border=false&layout=compact)
+
